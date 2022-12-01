@@ -1,3 +1,4 @@
 # ignore all undo tree files
 *.~undo-tree~
 target/
+Cargo.lock
